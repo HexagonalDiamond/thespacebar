@@ -1,0 +1,26 @@
+{
+  "name": "thespacebar",
+  "version": "1.0.0",
+  "description": "Game based on a single key that I am developing.",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "beefy game.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmeyer2k/thespacebar"
+  },
+  "author": "jmeyer2k",
+  "license": "GNU GPL v2.0",
+  "bugs": {
+    "url": "https://github.com/jmeyer2k/thespacebar/issues"
+  },
+  "homepage": "https://github.com/jmeyer2k/thespacebar",
+  "dependencies": {
+    "craftyjs": "^0.6.3"
+  },
+  "devDependencies": {
+    "beefy": "^2.1.1"
+  }
+}
